@@ -2,7 +2,7 @@
 We always do the document together. Each member writes the same amount of document. We ate, talked and played together. Usually we don't bring the job back to home, so if we want a progress on the work, we will have to meet up.
 
 # To Harit chokthananuchit, Jack
-Jack is a respectful guy. He accepts his weakness in coding. That's make he able to improve his skill later on.
+Jack is a respectful guy. He accepts his weaknesses in coding. That makes him improve his coding skills later on.
 
 His English writing is probably the best in our team. He can clearly describe processes, ideas and aims of topic.
 
