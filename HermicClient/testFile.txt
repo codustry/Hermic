@@ -1,0 +1,9 @@
+Audio bit dept = section1
+Sample Rate = section2
+[section1]
+8-bit = False
+16-bit = True
+32-bit = False
+[section2]
+44.1 kHz = False
+44 kHz = True
