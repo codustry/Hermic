@@ -23,10 +23,10 @@ Using swift language for coding,
 ## how to use
 ### 1 launch the app, the main page.
 After install the applcation on an iOS device, launch the app and you'll see this page.
-![](https://raw.githubusercontent.com/codustry/Hermic/master/iphoneApp/appImages/1.png)
+![](https://raw.githubusercontent.com/codustry/Hermic/master/appImages/1.png)
 ### 2 Recored
 Tap on record button to start recording. When done recording, press stop.
-![](https://raw.githubusercontent.com/codustry/Hermic/master/iphoneApp/appImages/2.png)
+![](https://raw.githubusercontent.com/codustry/Hermic/master/appImages/2.png)
 ### 3 Listen on what you've recorded.
 After stop the recording, tap play to play what had been recorded previously.
-![](https://raw.githubusercontent.com/codustry/Hermic/master/iphoneApp/appImages/3.png)
+![](https://raw.githubusercontent.com/codustry/Hermic/master/appImages/3.png)
