@@ -1,16 +1,8 @@
 # Overall
 In the documentation work, three of us met up daily since the end of March to get more work done more and more each day. We got the documentation done one day before Songkran. (which was awesome)
 
-# To Nutchanon Ninyawee, Jack
-Jack is a respectful guy. He accepts his weakness in coding. That's make he able to improve his skill later on.
-
-His English writing is probably the best in our team. He can clearly describe processes, ideas and aims of topic.
-
-He can create a good quality fine UI also, but he does it in a slow manner.
-
+# To Nutchanon Ninyawee, Ben
+Ben is a leader in our group. He has a clear vision about the project in his mind. He wants the work to be perfect. He always tells us to care every detail. When I or Pooh have any problems, he will always be there to help us out.
 # To Ekacha Techasuknirun, Pooh
-Pooh is a cheerful guy. He tries to entertain the team all the times with his jokes. Although the jokes were usually sick ones, the team could always relax while intense work was going on.
-
-His English writing skill need an improvement. He cannot wrap up the ideas sometimes that made him writes confusing paragraph and I need to check his writing.
-
-He is the best at creating diagram. He has an supreme skill of Visual Paradigm. We can throw a question at him about UML diagrams.
+He is a good entertainer in our group. When things get hard, he would try to make us laugh with his weird jokes.(that make us get headaches)
+He is a professional in creating diagrams. He loves helping people even he had hard time in his coding.
