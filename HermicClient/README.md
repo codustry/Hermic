@@ -16,7 +16,6 @@ Tested System
 NO.|Description| Expected result | Actual Result | Completed by
 ---|-----------|-----------------|---------------|-------------
 1|Change the setting the option| The software must changes | the software changes the option| Ekacha T.
-
 2|Software remembers the setting after we close the softwarethe setting| The software can remember it| The software can remember it   | Ekacha T.
 
 ## How to use
