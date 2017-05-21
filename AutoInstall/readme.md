@@ -26,10 +26,10 @@ Using Autohotkey scripting language, I able to automate the installation of VBAu
 ## how to use
 ### 1 get all requirement files
 make sure that the "VBCABLE_Driver_Pack43" and install.exe is located in the same folder.
-![entireScreen](https://raw.githubusercontent.com/codustry/Hermic/master/silentInstallationVB/images/entireScreen.png)
+![entireScreen](https://raw.githubusercontent.com/codustry/Hermic/master/AutoInstall/images/entireScreen.png)
 ### 2 run install.exe
 run install.exe. This application will require the admin privillage to continue.
-![runAsAdmin](https://raw.githubusercontent.com/codustry/Hermic/master/silentInstallationVB/images/1runAsAdminPrompt.png)
+![runAsAdmin](https://raw.githubusercontent.com/codustry/Hermic/master/AutoInstall/images/1runAsAdminPrompt.png)
 ### 3 wait and installed
 the script will install the VBCable driver for you. While installing, all input either typing or click will be ignored for reliability reason.
-![installing](https://raw.githubusercontent.com/codustry/Hermic/master/silentInstallationVB/images/2VBCableInstallAutomation.png)
+![installing](https://raw.githubusercontent.com/codustry/Hermic/master/AutoInstall/images/2VBCableInstallAutomation.png)

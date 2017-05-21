@@ -6,6 +6,8 @@ you can see details of each part by clicking the folder on the github repo, or b
 2. VBCable Driver autoinstall script
 3. Hermic system trayicon
 
+We also have members' reflections for each people from each person in this team. The reflections wrote in .md at the root of this repo.
+
 ## Hermic is what?
 
 Your smartphone is already an industry-standard microphone device with noise cancellation. There is no reason to buy another equipment of the same type. Thus we introduced and developed this solution, *Hermic*.
