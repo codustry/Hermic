@@ -28,6 +28,10 @@ We try to minimize the learning curve. Users could master this app after a few t
 > paragraph + table -> Ekacha
 
 ## IMPLEMENTATION & TESTING - MAJOR PROBLEMS
+In the implementation process, most problems we have faced is that we were new to the tasks that each of us are assigned to. To create and iOS application, some of us had to learn how to code in swift. To create Windows software interfaces, some of us had to learn python from nothing. It was quite hard to learn a completely new language with the limited time. To complete this project, we needed to integrate different knowledges together which also took some time to get it done.
+
+In testing process, there was not many problems. On both iOS app and PC testing. It was very straight forward. The thing that we can improve is to have more test cases as much as possible to get bugs out.
+
 > 2 paragraph -> Jack
 
 ## TOOLS
