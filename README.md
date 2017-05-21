@@ -31,7 +31,9 @@ We try to minimize the learning curve. Users could master this app after a few t
 > 2 paragraph -> Jack
 
 ## TOOLS
-> a table -> Ben
+Tool | Description
+----- | ----------------------
+Computer | Cat
 
 ## Group member
 
