@@ -36,13 +36,13 @@ Coding|X|  |
 HermicClient|   |   | 
 Design|  |  |X
 Coding| | |X
-## Auto Install    |    |     | 
+Auto Install    |    |     | 
 Design|    |X|    
 Coding |   |X|   
-## hermicApp |   |   |
+hermicApp |   |   |
 Design   | X |   |   
 Coding | X |   |
-## Testing
+Testing
 Testing Approach | X | X | X
 Testing Cases | X | X | X
 Documentation
