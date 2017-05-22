@@ -23,15 +23,15 @@ Users should be able to decide quality of sound they want. Sometimes, users’ d
 We try to minimize the learning curve. Users could master this app after a few tap.
 
 ## Implementation and testing phase responsibilities
-### The implementation and testing started ion June 14th, 2017 and continued until June 21st, 2017. The task of work will explain with the table below this, which it include what we were done as well as who completed that task.
+ The implementation and testing started ion June 14th, 2017 and continued until June 21st, 2017. The task of work will explain with the table below this, which it include what we were done as well as who completed that task.
 
 ## Task|  Harit (Jack)|  Nutchanon (Ben)|  Ekacha (Pooh)
-----------|----------------|---------------|----------------
-## Window UI |               |               |
-Design|                | X | X
-Coding|               | X | X
+-------|--------------|-----------------|----------------
+## Window UI|         |                 |
+Design|               |X|X
+Coding|               |X|X
 ## iPhone UI|  |  |  
-Design|X|   |   
+Design|X|  |   
 Coding|X|  |  
 ## HermicClient|   |   | 
 Design|  |  |X
