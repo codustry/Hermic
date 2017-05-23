@@ -22,6 +22,50 @@ Users should be able to decide quality of sound they want. Sometimes, users’ d
 ### Minimal UI/UX design
 We try to minimize the learning curve. Users could master this app after a few tap.
 
+## Implementation and testing phase responsibilities
+ The implementation and testing started ion June 14th, 2017 and continued until June 21st, 2017. The task of work will explain with the table below this, which it include what we were done as well as who completed that task.
+
+Task|  Harit (Jack)|  Nutchanon (Ben)|  Ekacha (Pooh)
+-------|--------------|-----------------|----------------
+Window UI|         |                 |
+Design|               |X|X
+Coding|               |X|X
+iPhone UI|  |  |  
+Design|X|  |   
+Coding|X|  |  
+HermicClient|   |   |
+Design|  |  |X
+Coding| | |X
+Auto Install    |    |     |
+Design|    |X|    
+Coding |   |X|   
+hermicApp |   |   |
+Design   | X |   |   
+Coding | X |   |
+Testing
+Testing Approach | X | X | X
+Testing Cases | X | X | X
+Documentation
+Report | X | X | X
+
+## IMPLEMENTATION & TESTING - MAJOR PROBLEMS
+In the implementation process, most problems we have faced is that we were new to the tasks that each of us are assigned to. To create and iOS application, some of us had to learn how to code in swift. To create Windows software interfaces, some of us had to learn python from nothing. It was quite hard to learn a completely new language with the limited time. To complete this project, we needed to integrate different knowledges together which also took some time to get it done.
+
+In testing process, there was not many problems. On both iOS app and PC testing. It was very straight forward. The thing that we can improve is to have more test cases as much as possible to get bugs out.
+
+
+
+## TOOLS
+Tool | Description
+----- | ----------------------
+Computer | MacBook Air, 1.4 GHz Intel Core i5, 8 GB 1600 MHz DDR3
+iPhone | iPhone 7 128GB iOS 10.3.1
+Virtualbox | for Running Windows ,version 5.1.22
+Pycharm Professional | for Coding, version 2017.1.2
+Xcode | for Coding, version 8.3.2
+
+
+
 
 ## Group member
 
